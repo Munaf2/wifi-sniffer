@@ -1,0 +1,3 @@
+Python dependencies used in this project:
+
+scapy
